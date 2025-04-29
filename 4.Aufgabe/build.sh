@@ -11,5 +11,7 @@ cmake ..
 
 # Build
 make
+mv libsobel_demo.so sobel_demo$(python3-config --extension-suffix)
+
 
 echo "✅ Build completed successfully!"
