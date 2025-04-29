@@ -1,0 +1,3 @@
+/Users/ahmedadnan/Desktop/HTWG/S6/Computervision-2D/2DCV-Tasks/4.Aufgabe/build/CMakeFiles/sobel_demo.dir
+/Users/ahmedadnan/Desktop/HTWG/S6/Computervision-2D/2DCV-Tasks/4.Aufgabe/build/CMakeFiles/edit_cache.dir
+/Users/ahmedadnan/Desktop/HTWG/S6/Computervision-2D/2DCV-Tasks/4.Aufgabe/build/CMakeFiles/rebuild_cache.dir
